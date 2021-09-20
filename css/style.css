@@ -6000,3 +6000,8 @@ html.tablet .ui-to-top {
 		margin-right: -73px;
 	}
 }
+
+.slide-container {
+	overflow: auto;
+	white-space: nowrap;
+  }
